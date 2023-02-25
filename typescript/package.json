@@ -10,6 +10,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "fp-ts": "^2.13.1",
+    "parser-ts": "^0.6.16",
     "ts-node": "^10.9.1"
   },
   "devDependencies": {
